@@ -6,8 +6,11 @@ Beyond predicting game outcomes, this project serves as a practical demonstratio
 
 Attached files/code - 
 NFL Historical Data: The creation of the training dataset on 20 years of NFL play-by-play data
+
 NFL 2023 Schedule: The creation of the testing dataset for the 2023 NFL season, this is the game data I will be using to test the predictions created by the models used in the training dataset
+
 NFL Random Forest Models: The buildout of the conservative Random Forest models for both spread and over/under
+
 NFL XGBoost Models: The buildout of the aggressive XGBoost models for both spread and over/under
 How to Beat Vegas Using Tree-Based Model: This is the final report for this project outlining every step of the process as well as summarizing the results in a clear, professional manner
 Final Project Poster: The final poster layout used to present at the 2023 Kennesaw State University Analytics Day competition
